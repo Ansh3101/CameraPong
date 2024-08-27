@@ -1,4 +1,7 @@
+<img width="1297" alt="SCR-20240827-ovnz" src="https://github.com/user-attachments/assets/3e1bc877-12f4-478b-902b-9f067214aa7b">
+
 # Camera Pong
+
 A fun and interactive program written in Scratch that allows you to play Pong using just your fingers! This project leverages computer vision to detect and track finger movements via your camera, turning them into paddle controls in a classic Pong game. It's an engaging way to combine Scratch programming with real-time computer vision techniques.
 
 ## Features
